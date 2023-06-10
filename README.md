@@ -2,18 +2,38 @@
 
 ---
 
+### [0]. Instalar o babel-plugin-module-resolver
+
+#### npm install --save-dev babel-plugin-module-resolver
+
 ### [1]. Instalar o styled-components.
 
-### npm
+#### npm
 
-npm install styled-components
+#### npm install styled-components
 
-### yarn
+#### yarn
 
-## yarn add styled-components
+### yarn add styled-components
 
 ---
 
 ### [2]. Instalar a font do google.
 
-### npx expo install expo-font @expo-google-fonts/roboto
+#### npx expo install expo-font @expo-google-fonts/roboto
+
+---
+
+### [3]. Instalar o phosphor-react-native
+
+#### yarn add phosphor-react-native
+
+#### or
+
+#### npm install --save phosphor-react-native
+
+---
+
+### [4]. Instapar o Expo svg
+
+#### npx expo install react-native-svg
