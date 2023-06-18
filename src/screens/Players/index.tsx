@@ -22,7 +22,7 @@ export function Players() {
       />
       <Form>
         <Input placeholder="Nome da pessoa" autoCorrect={false} />
-        <ButtonIcon icon="addfile" />
+        <ButtonIcon icon="add" />
       </Form>
       <HeaderList>
         <FlatList

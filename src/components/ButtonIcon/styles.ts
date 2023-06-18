@@ -1,6 +1,6 @@
 import { TouchableOpacity } from "react-native";
 import { styled } from "styled-components/native";
-import { AntDesign } from '@expo/vector-icons';
+import { MaterialIcons } from '@expo/vector-icons';
 
 export type ButtonIconTypeStyleProps = "PRIMARY" | "SECONDARY";
 
@@ -16,7 +16,7 @@ justify-content: center;
 margin-left: 12px;
 `;
 
-export const Icon = styled(AntDesign).attrs<Props>(({theme, type}) => ({
+export const Icon = styled(MaterialIcons).attrs<Props>(({theme, type}) => ({
   size: 24,
   color: type === "PRIMARY" ? theme.COLORS.GREEN_700 : theme.COLORS.RED_DARK
 }))``;
