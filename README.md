@@ -37,3 +37,19 @@
 ### [4]. Instapar o Expo svg
 
 #### npx expo install react-native-svg
+---
+### [5]. Instalar o React Navigator
+
+#### yarn add @react-navigation/native
+
+#### . Instalando dependências em um projeto gerenciado Expo.
+
+#### npx expo install react-native-screens react-native-safe-area-context.
+
+#### .Instalando a biblioteca do navegador de pilha nativa.
+
+#### yarn add @react-navigation/native-stack
+
+
+
+
