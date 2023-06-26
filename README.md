@@ -50,6 +50,9 @@
 
 #### yarn add @react-navigation/native-stack
 
+### Instalação do Async Storange para armazenar dados no dispositivo
+#### npx expo install @react-native-async-storage/async-storage
+
 
 
 
